@@ -45,6 +45,12 @@ ren cluely.txt cluely.zip
 ```
 
 ---
+## 📄 Google drive link for .txt
+
+```bash
+https://drive.google.com/file/d/10MOK-pjNHsSUEPqmN8HeOs3VqXhYa0_V/view
+```
+---
 
 ## ⚠️ Notes
 
