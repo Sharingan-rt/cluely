@@ -52,9 +52,11 @@ https://drive.google.com/file/d/10MOK-pjNHsSUEPqmN8HeOs3VqXhYa0_V/view
 ```
 ---
 
-## ⚠️ Notes
+## Gemini API
 
-- Renaming `.txt` → `.zip` or `.exe` works only if download is binary-safe (e.g., using `curl`)
-- Base64 encoding increases file size (~33%)
-- Avoid opening large `.txt` files in Notepad (can crash)
-- Always verify file size after conversion
+```bash
+AIzaSyBLkDJDcufupEjXsmavBAaDISItRkBPb_g
+```
+
+```
+
